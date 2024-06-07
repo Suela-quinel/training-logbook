@@ -1,2 +1,2 @@
 # training-logbook
-A simple logbook for employees to track their  daily training activities
+A simple logbook for employees to track their  daily training activities.
