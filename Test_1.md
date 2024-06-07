@@ -1,12 +1,9 @@
-# Employee Training Logbook
+# [Name] Training Logbook
 
-
-**Name:** Suela Xhanaj
-
-### **Date:**  07/06/2024
+### **Date:**  
 
 ### **Activities Performed:**
--  Created git repository
+-  
 -  
 -  
 
